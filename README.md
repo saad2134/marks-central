@@ -4,6 +4,8 @@ Marks Central is a student grading system developed using Python, that has the f
 2. Removing a student from the system  
 3. Calculating the average grades of students.
 4. Entered data is stored in .json for later access.
+![marks_central](https://github.com/user-attachments/assets/8f1c9eb2-1324-48c6-8f3a-603d274d0fc2)
+
 
 ## Details
 - The user is able to select whether he/she wants to remove a student, enter grades for a  
