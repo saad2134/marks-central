@@ -1,5 +1,5 @@
 # 💯 Marks Central
-Marks Central is a student grading system developed using Python, that has the following functionalities:  
+Marks Central is a simple student grading system developed using Python, that has the following functionalities:  
 1. Entering the Grades of a student  
 2. Removing a student from the system  
 3. Calculating the average grades of students.
