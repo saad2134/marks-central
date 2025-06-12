@@ -21,7 +21,7 @@ student or find the average grades.
 
 ## ▶️ How to Run
 - Method 1: Run an Executable
-   - Run the "marks_central.exe" file in build folder.
+   - Windows: Run the "marks_central.exe" file in build folder.
 - Method 2: Download Python and the modules (if not already installed) and Run the "main.py" file in src folder.
 
 ## ✍️ Endnote
