@@ -24,9 +24,11 @@ student or find the average grades.
    - Windows: Run the "marks_central.exe" file in build folder.
 - Method 2: Download Python and the modules (if not already installed) and Run the "main.py" file in src folder.
 
+---
+
 ## ✍️ Endnote
-Thank you for reading!
-Support me on https://buymeacoffee.com/saad1inc
+
+<p align="center">⭐ Star this repo if you found it helpful! Thanks for reading.</p>
 
 ---
 ![marks_central](https://github.com/user-attachments/assets/8f1c9eb2-1324-48c6-8f3a-603d274d0fc2)
